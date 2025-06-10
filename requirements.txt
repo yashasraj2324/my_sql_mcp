@@ -1,0 +1,7 @@
+fastapi==0.110.0
+uvicorn==0.29.0
+pydantic==2.7.1
+requests==2.32.2
+python-dotenv==1.0.1
+mysql-connector-python==8.4.0
+mcp  # If this is a local/custom module, adjust accordingly
