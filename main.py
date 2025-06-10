@@ -21,7 +21,7 @@ from contextlib import asynccontextmanager
 
 import mysql.connector
 from mysql.connector import Error
-from mcp.server.fastmcp import FastMCP
+from fastmcp import FastMCP
 
 # Load environment variables
 load_dotenv()
